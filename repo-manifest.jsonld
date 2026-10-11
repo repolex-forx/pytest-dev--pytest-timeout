@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-timeout/commit/16edd491cb2d65bfd6e0bc1d64173450cf23a01f",
       "git:hexsha": "16edd491cb2d65bfd6e0bc1d64173450cf23a01f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-timeout/commit/c2da660f87d05bdefa39e93b45d510af5c832db1",

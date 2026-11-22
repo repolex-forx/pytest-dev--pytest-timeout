@@ -3,6 +3,11 @@
   "repo": "pytest-timeout",
   "versions": [
     {
+      "commit": "ddabc934535081a5bf9ba7c9ca5b494aeaf8f665",
+      "tag": "2.4.0",
+      "parsed_at": "2026-11-22T00:30:39.731824+00:00"
+    },
+    {
       "commit": "16edd491cb2d65bfd6e0bc1d64173450cf23a01f",
       "tag": "",
       "parsed_at": "2026-10-11T02:24:26.050785+00:00"
